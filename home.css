@@ -1,0 +1,44 @@
+.NIH{
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    padding-bottom: 10px;
+
+}
+.NIH h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+button{
+    
+    height: 35px;
+    width: 95px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    transition: opacity 0.3s ease-in-out;
+    
+}
+.btn-grp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button:hover{
+    opacity: 0.6;
+}
+#btn{
+    width: 115px;
+    text-align: center;
+    pointer-events: none;
+}
+.anchor-ref{
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: black;
+}

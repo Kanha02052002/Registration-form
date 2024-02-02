@@ -1,0 +1,44 @@
+.form-container{
+    padding: 45px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-container h1{
+    font-size: 55px;
+}
+.form-container h3{
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-detail label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.form-detail input{
+    margin-left: 25px;
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+.form-detail input:active{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.form-detail button{
+    margin-left: 25px;
+    padding: 5px;
+    height: 35px;
+    width: 95px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.form-detail a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+}
